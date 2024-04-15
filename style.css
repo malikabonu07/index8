@@ -1,0 +1,33 @@
+.div1 {
+    width: 300px;
+    height: 100px;
+    background-color: bisque;
+    border-style: solid;
+    border-color: black;
+    margin: 20px;
+}
+.div2 {
+    width: 300px;
+    height: 100px;
+    background-color: bisque;
+    border-style: solid;
+    border-color: black;
+    transform: rotate(25deg);
+    margin: 20px;
+}
+.div3 {
+    width: 300px;
+    height: 100px;
+    background-color: bisque;
+    border-style: solid;
+    border-color: black;
+    transform: rotate(-25deg);
+    margin: 20px;
+}
+.container {
+    border-color: black;
+    border-style: solid;
+    width: 400px;
+    height: 500px;
+    
+}
